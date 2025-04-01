@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BAT1, BAT2",BAT-SMD_BH-18650-B5BA016,2,BH-18650-B5BA016,
+C1,1206,1,100n,
+J1,BUS_PCIexpress_x1,1,Bus_PCI_Express_x1,
+"J10, J2, J3, J4, J5, J6, J7, J8, J9",TestPoint_Pad_4.0x4.0mm,9,Conn_01x01_Pin,
+U2,SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,1,M24C02-WMN6TP,
